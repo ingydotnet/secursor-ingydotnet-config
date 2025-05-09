@@ -85,3 +85,6 @@ she() {
   fi
   source "${BASH_SOURCE[0]}"
 }
+
+# Put this last to ensure updates during shell sessions take effect:
+hash -r
