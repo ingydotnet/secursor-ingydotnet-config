@@ -8,7 +8,7 @@ for [Ingy döt Net](https://github.com/ingydotnet)
 ## Setup
 
 ```
-git clone https://github.com/ingydotnet/secursor ~/.secursor
+git clone https://github.com/ingydotnet/secursor-ingydotnet-config ~/.secursor
 ```
 
 
